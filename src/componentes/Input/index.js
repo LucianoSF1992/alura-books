@@ -1,4 +1,4 @@
-import styled from "styled-components";
+import styled from "styled-components"
 
 const Input = styled.input`
     order: 1px solid #FFF;
@@ -9,12 +9,12 @@ const Input = styled.input`
     width: 200px;
     color: #FFF;
     font-size: 16px;
-    margin-bottom:10px;
+    margin-bottom: 30px;
 
-    &::placeholder{
+    &::placeholder {
         color: #FFF;
         font-size: 16px;
     }
-
 `
+
 export default Input

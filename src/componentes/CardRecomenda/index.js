@@ -24,6 +24,7 @@ const Botao = styled.button`
     display: block;
     text-align: center;
     width: 150px;
+
     &:hover {
         cursor: pointer;
     }
